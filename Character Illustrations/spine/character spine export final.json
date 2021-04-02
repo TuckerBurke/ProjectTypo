@@ -1,0 +1,172 @@
+{ "skeleton": { "images": "C:/Users/tucke/Google Drive/Current/Project Typo/Character Illustrations/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "fire_back arm upper", "bone": "root", "attachment": "fire_back arm upper" },
+	{ "name": "fire_back arm lower", "bone": "root", "attachment": "fire_back arm lower" },
+	{ "name": "fire_back leg upper", "bone": "root", "attachment": "fire_back leg upper" },
+	{ "name": "fire_back leg lower", "bone": "root", "attachment": "fire_back leg lower" },
+	{ "name": "fire_torso", "bone": "root", "attachment": "fire_torso" },
+	{ "name": "fire_head", "bone": "root", "attachment": "fire_head" },
+	{ "name": "fire_front leg upper", "bone": "root", "attachment": "fire_front leg upper" },
+	{ "name": "fire_front leg lower", "bone": "root", "attachment": "fire_front leg lower" },
+	{ "name": "fire_front arm upper", "bone": "root", "attachment": "fire_front arm upper" },
+	{ "name": "fire_front arm lower", "bone": "root", "attachment": "fire_front arm lower" },
+	{ "name": "base_back arm upper", "bone": "root", "attachment": "base_back arm upper" },
+	{ "name": "base_back arm lower", "bone": "root", "attachment": "base_back arm lower" },
+	{ "name": "base_back leg upper", "bone": "root", "attachment": "base_back leg upper" },
+	{ "name": "base_back leg lower", "bone": "root", "attachment": "base_back leg lower" },
+	{ "name": "base_torso", "bone": "root", "attachment": "base_torso" },
+	{ "name": "base_head", "bone": "root", "attachment": "base_head" },
+	{ "name": "base_front leg upper", "bone": "root", "attachment": "base_front leg upper" },
+	{ "name": "base_front leg lower", "bone": "root", "attachment": "base_front leg lower" },
+	{ "name": "base_front arm upper", "bone": "root", "attachment": "base_front arm upper" },
+	{ "name": "base_front arm lower", "bone": "root", "attachment": "base_front arm lower" },
+	{ "name": "arms_back arm upper", "bone": "root", "attachment": "arms_back arm upper" },
+	{ "name": "arms_back arm lower", "bone": "root", "attachment": "arms_back arm lower" },
+	{ "name": "arms_back leg upper", "bone": "root", "attachment": "arms_back leg upper" },
+	{ "name": "arms_back leg lower", "bone": "root", "attachment": "arms_back leg lower" },
+	{ "name": "arms_torso", "bone": "root", "attachment": "arms_torso" },
+	{ "name": "arms_head", "bone": "root", "attachment": "arms_head" },
+	{ "name": "arms_front leg upper", "bone": "root", "attachment": "arms_front leg upper" },
+	{ "name": "arms_front leg lower", "bone": "root", "attachment": "arms_front leg lower" },
+	{ "name": "arms_front arm upper", "bone": "root", "attachment": "arms_front arm upper" },
+	{ "name": "arms front arm lower", "bone": "root", "attachment": "arms front arm lower" },
+	{ "name": "cell_back arm upper", "bone": "root", "attachment": "cell_back arm upper" },
+	{ "name": "cell_back arm lower", "bone": "root", "attachment": "cell_back arm lower" },
+	{ "name": "cell_back leg upper", "bone": "root", "attachment": "cell_back leg upper" },
+	{ "name": "cell_back leg lower", "bone": "root", "attachment": "cell_back leg lower" },
+	{ "name": "cell_torso", "bone": "root", "attachment": "cell_torso" },
+	{ "name": "cell_head", "bone": "root", "attachment": "cell_head" },
+	{ "name": "cell_front leg upper", "bone": "root", "attachment": "cell_front leg upper" },
+	{ "name": "cell_front leg lower", "bone": "root", "attachment": "cell_front leg lower" },
+	{ "name": "cell_front arm upper", "bone": "root", "attachment": "cell_front arm upper" },
+	{ "name": "cell_front arm lower", "bone": "root", "attachment": "cell_front arm lower" }
+],
+"skins": {
+	"default": {
+		"fire_back arm upper": {
+			"fire_back arm upper": { "x": 190, "y": 1113, "width": 182, "height": 402 }
+		},
+		"fire_back arm lower": {
+			"fire_back arm lower": { "x": 273, "y": 854.5, "width": 144, "height": 373 }
+		},
+		"fire_back leg upper": {
+			"fire_back leg upper": { "x": 119.5, "y": 627, "width": 193, "height": 534 }
+		},
+		"fire_back leg lower": {
+			"fire_back leg lower": { "x": 200.5, "y": 244, "width": 327, "height": 524 }
+		},
+		"fire_torso": {
+			"fire_torso": { "x": -6, "y": 1096.5, "width": 422, "height": 785 }
+		},
+		"fire_head": {
+			"fire_head": { "x": 26.5, "y": 1475.5, "width": 281, "height": 323 }
+		},
+		"fire_front leg upper": {
+			"fire_front leg upper": { "x": -169, "y": 640.5, "width": 304, "height": 521 }
+		},
+		"fire_front leg lower": {
+			"fire_front leg lower": { "x": -274, "y": 238.5, "width": 316, "height": 511 }
+		},
+		"fire_front arm upper": {
+			"fire_front arm upper": { "x": -259.5, "y": 1159, "width": 267, "height": 382 }
+		},
+		"fire_front arm lower": {
+			"fire_front arm lower": { "x": -345, "y": 873.5, "width": 154, "height": 433 }
+		},
+		"base_back arm upper": {
+			"base_back arm upper": { "x": 190, "y": 1113, "width": 182, "height": 402 }
+		},
+		"base_back arm lower": {
+			"base_back arm lower": { "x": 273, "y": 854.5, "width": 144, "height": 373 }
+		},
+		"base_back leg upper": {
+			"base_back leg upper": { "x": 119.5, "y": 627, "width": 193, "height": 534 }
+		},
+		"base_back leg lower": {
+			"base_back leg lower": { "x": 200.5, "y": 244, "width": 327, "height": 524 }
+		},
+		"base_torso": {
+			"base_torso": { "x": 29.5, "y": 1102, "width": 493, "height": 796 }
+		},
+		"base_head": {
+			"base_head": { "x": 28, "y": 1464.5, "width": 286, "height": 345 }
+		},
+		"base_front leg upper": {
+			"base_front leg upper": { "x": -169, "y": 640.5, "width": 304, "height": 521 }
+		},
+		"base_front leg lower": {
+			"base_front leg lower": { "x": -274, "y": 238.5, "width": 316, "height": 511 }
+		},
+		"base_front arm upper": {
+			"base_front arm upper": { "x": -259.5, "y": 1159, "width": 267, "height": 382 }
+		},
+		"base_front arm lower": {
+			"base_front arm lower": { "x": -345, "y": 873.5, "width": 154, "height": 433 }
+		},
+		"arms_back arm upper": {
+			"arms_back arm upper": { "x": 190, "y": 1113, "width": 182, "height": 402 }
+		},
+		"arms_back arm lower": {
+			"arms_back arm lower": { "x": 303.5, "y": 914, "width": 241, "height": 492 }
+		},
+		"arms_back leg upper": {
+			"arms_back leg upper": { "x": 119.5, "y": 627, "width": 193, "height": 534 }
+		},
+		"arms_back leg lower": {
+			"arms_back leg lower": { "x": 200.5, "y": 244, "width": 327, "height": 524 }
+		},
+		"arms_torso": {
+			"arms_torso": { "x": 11.5, "y": 1098.5, "width": 457, "height": 789 }
+		},
+		"arms_head": {
+			"arms_head": { "x": 28, "y": 1487.5, "width": 286, "height": 391 }
+		},
+		"arms_front leg upper": {
+			"arms_front leg upper": { "x": -169, "y": 640.5, "width": 304, "height": 521 }
+		},
+		"arms_front leg lower": {
+			"arms_front leg lower": { "x": -274, "y": 238.5, "width": 316, "height": 511 }
+		},
+		"arms_front arm upper": {
+			"arms_front arm upper": { "x": -259.5, "y": 1159, "width": 267, "height": 382 }
+		},
+		"arms front arm lower": {
+			"arms front arm lower": { "x": -357.5, "y": 887.5, "width": 221, "height": 461 }
+		},
+		"cell_back arm upper": {
+			"cell_back arm upper": { "x": 192, "y": 1113, "width": 186, "height": 402 }
+		},
+		"cell_back arm lower": {
+			"cell_back arm lower": { "x": 273, "y": 854.5, "width": 144, "height": 373 }
+		},
+		"cell_back leg upper": {
+			"cell_back leg upper": { "x": 119.5, "y": 627, "width": 193, "height": 534 }
+		},
+		"cell_back leg lower": {
+			"cell_back leg lower": { "x": 205.5, "y": 247, "width": 315, "height": 514 }
+		},
+		"cell_torso": {
+			"cell_torso": { "x": 18.5, "y": 1091, "width": 471, "height": 774 }
+		},
+		"cell_head": {
+			"cell_head": { "x": 26.5, "y": 1480, "width": 281, "height": 334 }
+		},
+		"cell_front leg upper": {
+			"cell_front leg upper": { "x": -169, "y": 640.5, "width": 304, "height": 521 }
+		},
+		"cell_front leg lower": {
+			"cell_front leg lower": { "x": -247, "y": 242.5, "width": 260, "height": 503 }
+		},
+		"cell_front arm upper": {
+			"cell_front arm upper": { "x": -257.5, "y": 1158.5, "width": 271, "height": 383 }
+		},
+		"cell_front arm lower": {
+			"cell_front arm lower": { "x": -345, "y": 874, "width": 152, "height": 432 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

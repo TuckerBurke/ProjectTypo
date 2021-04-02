@@ -1,0 +1,80 @@
+{ "skeleton": { "images": "E:/Google Drive/Current/Project Typo/spine_images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "right bicep", "bone": "root", "attachment": "right bicep" },
+	{ "name": "right forarm", "bone": "root", "attachment": "right forarm" },
+	{ "name": "right fist", "bone": "root", "attachment": "right fist" },
+	{ "name": "right foot", "bone": "root", "attachment": "right foot" },
+	{ "name": "right chin", "bone": "root", "attachment": "right chin" },
+	{ "name": "right tigh", "bone": "root", "attachment": "right tigh" },
+	{ "name": "abs", "bone": "root", "attachment": "abs" },
+	{ "name": "hips", "bone": "root", "attachment": "hips" },
+	{ "name": "left foot", "bone": "root", "attachment": "left foot" },
+	{ "name": "left chin", "bone": "root", "attachment": "left chin" },
+	{ "name": "left thigh", "bone": "root", "attachment": "left thigh" },
+	{ "name": "left bicep", "bone": "root", "attachment": "left bicep" },
+	{ "name": "left forearm", "bone": "root", "attachment": "left forearm" },
+	{ "name": "left fist", "bone": "root", "attachment": "left fist" },
+	{ "name": "chest", "bone": "root", "attachment": "chest" },
+	{ "name": "neck", "bone": "root", "attachment": "neck" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"right bicep": {
+			"right bicep": { "x": -105, "y": 976.5, "width": 122, "height": 249 }
+		},
+		"right forarm": {
+			"right forarm": { "x": -201.5, "y": 810, "width": 197, "height": 136 }
+		},
+		"right fist": {
+			"right fist": { "x": -309.5, "y": 753, "width": 97, "height": 86 }
+		},
+		"right foot": {
+			"right foot": { "x": -165, "y": 68, "width": 196, "height": 180 }
+		},
+		"right chin": {
+			"right chin": { "x": -167.5, "y": 252.5, "width": 169, "height": 271 }
+		},
+		"right tigh": {
+			"right tigh": { "x": -154, "y": 515, "width": 256, "height": 454 }
+		},
+		"abs": {
+			"abs": { "x": 26, "y": 839, "width": 210, "height": 260 }
+		},
+		"hips": {
+			"hips": { "x": 5, "y": 696, "width": 238, "height": 232 }
+		},
+		"left foot": {
+			"left foot": { "x": 227.5, "y": -58, "width": 113, "height": 232 }
+		},
+		"left chin": {
+			"left chin": { "x": 184, "y": 159.5, "width": 152, "height": 309 }
+		},
+		"left thigh": {
+			"left thigh": { "x": 70, "y": 465.5, "width": 218, "height": 493 }
+		},
+		"left bicep": {
+			"left bicep": { "x": 187, "y": 966, "width": 154, "height": 330 }
+		},
+		"left forearm": {
+			"left forearm": { "x": 67.5, "y": 768, "width": 393, "height": 240 }
+		},
+		"left fist": {
+			"left fist": { "x": 39, "y": 642, "width": 122, "height": 104 }
+		},
+		"chest": {
+			"chest": { "x": 39.5, "y": 1006, "width": 303, "height": 326 }
+		},
+		"neck": {
+			"neck": { "x": 7, "y": 1186.5, "width": 122, "height": 181 }
+		},
+		"head": {
+			"head": { "x": -18.5, "y": 1275, "width": 205, "height": 222 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
